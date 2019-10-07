@@ -45,6 +45,7 @@ font-size: 1em;
 font-weight: 400;  
 padding: 2em;
 margin-right: 50em;
+position: fixed;
 }
 nav{
   position:fixed;
